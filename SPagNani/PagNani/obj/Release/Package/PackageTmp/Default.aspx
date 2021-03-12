@@ -118,15 +118,9 @@
 
                     <p>Estou te esperando!</p>
                 </h3>
-                <span>Participe do grupo exclusivo do workshop!</span>
+                <h3 style="color: #6d020a; font-size: 1.5rem; font-weight: 700">Participe do grupo exclusivo do workshop!  -> </h3>
                 <a href="https://chat.whatsapp.com/HXZ9o7dA5H598RxunEDJ2n" class="whatsFixo ml-3" target="_blank"> <i style="margin-top:16px" class="fab fa-whatsapp"></i> </a>
-                
-
                 <a href="https://chat.whatsapp.com/HXZ9o7dA5H598RxunEDJ2n" class="whats" target="_blank"> <i style="margin-top:16px" class="fab fa-whatsapp"></i> </a>
-
-                
-
-
             </div>
 
             <div class="col-lg-5 py-0">

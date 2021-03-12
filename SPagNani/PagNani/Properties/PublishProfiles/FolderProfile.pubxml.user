@@ -62,10 +62,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>04/22/2019 01:06:16</publishTime>
     </File>
     <File Include="bin/PagNani.dll">
-      <publishTime>03/12/2021 12:41:46</publishTime>
+      <publishTime>03/12/2021 14:23:53</publishTime>
     </File>
     <File Include="bin/PagNani.pdb">
-      <publishTime>03/12/2021 12:41:46</publishTime>
+      <publishTime>03/12/2021 14:23:53</publishTime>
     </File>
     <File Include="bin/pt-br/Microsoft.AspNet.FriendlyUrls.resources.dll">
       <publishTime>07/30/2013 17:01:52</publishTime>
@@ -287,7 +287,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/11/2021 14:05:30</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>03/12/2021 12:39:44</publishTime>
+      <publishTime>03/12/2021 12:46:17</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>03/12/2021 10:39:59</publishTime>
@@ -372,6 +372,9 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     </File>
     <File Include="img/perfil.png">
       <publishTime>03/09/2021 12:51:13</publishTime>
+    </File>
+    <File Include="InscricaoConfirmada.aspx">
+      <publishTime>03/12/2021 14:22:26</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>03/11/2021 11:52:08</publishTime>
@@ -464,7 +467,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/11/2021 11:52:10</publishTime>
     </File>
     <File Include="Site.Master">
-      <publishTime>03/12/2021 12:34:16</publishTime>
+      <publishTime>03/12/2021 14:23:00</publishTime>
     </File>
     <File Include="ViewSwitcher.ascx">
       <publishTime>03/11/2021 11:52:11</publishTime>

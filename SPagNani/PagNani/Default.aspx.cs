@@ -88,12 +88,12 @@ namespace PagNani
                     + "<br/>Nani Mattos";
 
                 SendEmail(Email, "Parabéns, você já garantiu a sua vaga! ", mensagem);
+                Response.Redirect("InscricaoConfirmada.aspx");
             }
             catch (Exception ex)
             {
             }
         }
-
 
         /*
 			Caso prefira não permitir o acesso de aplicativos menos seguros, a seguinte solução pode ser adotada:

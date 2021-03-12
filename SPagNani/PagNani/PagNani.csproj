@@ -188,6 +188,7 @@
     <Content Include="img\8.png" />
     <Content Include="img\9.png" />
     <Content Include="img\perfil.png" />
+    <Content Include="InscricaoConfirmada.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -233,6 +234,13 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="InscricaoConfirmada.aspx.cs">
+      <DependentUpon>InscricaoConfirmada.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InscricaoConfirmada.aspx.designer.cs">
+      <DependentUpon>InscricaoConfirmada.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
