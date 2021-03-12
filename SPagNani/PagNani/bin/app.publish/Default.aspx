@@ -8,7 +8,7 @@
           <h3 class="text-center">
             Então, eu te convido a embarcar comigo numa super imersão de 3 dias com conteúdos que tenho
             certeza que irão te ajudar bastante em sua jornada!
-            <br />
+            <br /><br />
             Esse evento será diferente de todos os outros que já fiz!
           </h3>
 		  
@@ -53,13 +53,14 @@
             <div class="tema-23 col-lg-5 col-12 col-sm-12 col-md-12 col-xl-5">
               <h3>Dia 23 de março às 20h30</h3>
               <h3>Os elementos essenciais para usar na consulta</h3>
+               <br/>
               <div class="tema-assuntos">
                 <h4>Assuntos abordados</h4>
                 <div class="tema-topicos">
-                  <h6>- Quais são os diferentes tipos de baralhos</h6>
-                  <h6>- Como saber qual deles é para você</h6>
-                  <h6>- Como ouvir a sua intuição</h6>
-                  <h6>- Como montar uma caixinha para guardar o baralho</h6>
+                  <h5>- Os 4 elementos</h5>
+                  <h5>- Como montar uma mesa</h5>
+                  <h5>- como se proteger espiritualmente de energias negativas</h5>
+                  <h5>- Como consagrar o Baralho Cigano</h5>
                 </div>
               </div>
             </div>
@@ -70,10 +71,10 @@
               <div class="tema-assuntos">
                 <h4>Assuntos abordados</h4>
                 <div class="tema-topicos">
-                  <h5>- Quais são os diferentes tipos de baralhos</h5>
-                  <h5>- Como saber qual deles é para você</h5>
+                  <h5>- Quais os tipos de tiragem que você pode trabalhar</h5>
+                  <h5>- Por que cada tarólogo trabalha do seu jeito?</h5>
                   <h5>- Como ouvir a sua intuição</h5>
-                  <h5>- Como montar uma caixinha para guardar o baralho</h5>
+                  <h5>- Como encontrar o seu próprio método de trabalho</h5>
                 </div>
               </div>
             </div>
@@ -117,6 +118,15 @@
 
                     <p>Estou te esperando!</p>
                 </h3>
+                <span>Participe do grupo exclusivo do workshop!</span>
+                <a href="https://chat.whatsapp.com/HXZ9o7dA5H598RxunEDJ2n" class="whatsFixo ml-3" target="_blank"> <i style="margin-top:16px" class="fab fa-whatsapp"></i> </a>
+                
+
+                <a href="https://chat.whatsapp.com/HXZ9o7dA5H598RxunEDJ2n" class="whats" target="_blank"> <i style="margin-top:16px" class="fab fa-whatsapp"></i> </a>
+
+                
+
+
             </div>
 
             <div class="col-lg-5 py-0">
@@ -163,6 +173,11 @@
             rumo ao conhecimento e desfrute de tudo aquilo que já é seu e está a sua espera.
             </h3>
             <h2 class="text-center">Paz e Luz</h3>
+
+            <div align="center">
+                <a href="https://www.instagram.com/nanimattos.terapias/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+                <a href="https://www.youtube.com/channel/UC2v9xvoKoEl5OcySKgwojJQ" target="_blank" class="youtube ml-2"><i class="fab fa-youtube fa-2x"></i></a>
+            </div>
 
         </div>
     </section>
