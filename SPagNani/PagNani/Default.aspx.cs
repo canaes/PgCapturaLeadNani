@@ -53,7 +53,6 @@ namespace PagNani
                     + "<br/>-	Quais são os diferentes tipos de baralhos"
                     + "<br/>-	Como saber qual deles é para você"
                     + "<br/>-	Como ouvir a sua intuição"
-                    + "<br/>-	Como montar uma caixinha para guardar o baralho"
                     + "<br/>-	Quais os outros locais que pode armazenar o baralho"
 
                     + "<br/><br/><strong>Dia 23 de março</strong>"
@@ -82,7 +81,7 @@ namespace PagNani
                     + "<br/>Esta é uma oportunidade incrível para você adquirir bastante conhecimento a respeito da magia do Povo Cigano."
                     + "<br/><br/>Agora, se você tem dúvida se vale a pena ocupar o seu tempo com isso, ou se não sabe se o Baralho Cigano é pra você, eu preparei uma aula especial esclarecendo todas as dúvidas a respeito desse assunto."
                     + "<br/><br/>Assista a esta aula e veja se o Baralho Cigano é mesmo pra você:"
-                    + "<br/><br/><a href='https://youtu.be/FH5cbF2gmhA'>Link para o meu vídeo</a>"
+                    + "<br/><br/><a href='https://youtu.be/YpaUQqxSVbM'>Link para o meu vídeo</a>"
                     + "<br/><br/>Esta pode ser aquela resposta que você estava esperando do Universo para sua vida."
                     + "<br/>Um beijo e muita luz!"
                     + "<br/><br/><br/>Te espero nas aulas, viu?"

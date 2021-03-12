@@ -4,7 +4,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\Major\source\repos\SPagNani\PagNani\bin\app.publish\</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Users\Major\Documents\GitHub\PgCapturaLeadNani\SPagNani\PagNani\bin\app.publish\</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Antlr3.Runtime.dll">
@@ -62,10 +62,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>04/22/2019 01:06:16</publishTime>
     </File>
     <File Include="bin/PagNani.dll">
-      <publishTime>03/11/2021 14:47:26</publishTime>
+      <publishTime>03/12/2021 11:09:27</publishTime>
     </File>
     <File Include="bin/PagNani.pdb">
-      <publishTime>03/11/2021 14:47:26</publishTime>
+      <publishTime>03/12/2021 11:09:27</publishTime>
     </File>
     <File Include="bin/pt-br/Microsoft.AspNet.FriendlyUrls.resources.dll">
       <publishTime>07/30/2013 17:01:52</publishTime>
@@ -287,10 +287,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/11/2021 14:05:30</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>03/11/2021 14:45:07</publishTime>
+      <publishTime>03/12/2021 11:03:18</publishTime>
     </File>
     <File Include="favicon.ico">
-      <publishTime>03/11/2021 11:52:00</publishTime>
+      <publishTime>03/12/2021 10:39:59</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.eot">
       <publishTime>03/11/2021 11:52:08</publishTime>
@@ -464,13 +464,13 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/11/2021 11:52:10</publishTime>
     </File>
     <File Include="Site.Master">
-      <publishTime>03/11/2021 13:59:04</publishTime>
+      <publishTime>03/12/2021 10:40:20</publishTime>
     </File>
     <File Include="ViewSwitcher.ascx">
       <publishTime>03/11/2021 11:52:11</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/11/2021 14:38:43</publishTime>
+      <publishTime>03/12/2021 10:57:23</publishTime>
     </File>
   </ItemGroup>
 </Project>
