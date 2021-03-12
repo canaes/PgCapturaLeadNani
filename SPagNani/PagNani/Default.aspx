@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Nani matos - Curso Baralho Cigano Saber Consciente" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="PagNani._Default" %>
+﻿<%@ Page Title="Magia das Cartas - Baralho Cigano do Zero ao Avançado" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="PagNani._Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <section id="energia-mistica">
@@ -11,7 +11,15 @@
             <br />
             Esse evento será diferente de todos os outros que já fiz!
           </h3>
-
+		  
+		  <div class="video-conteudo mx-auto">
+			<div class="video embed-responsive embed-responsive-16by9" style="overflow: hidden;">
+			  <iframe width="1180" height="664" src="https://www.youtube.com/embed/CRaK-MyB7wc" frameborder="0"
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+				allowfullscreen=""></iframe>
+			</div>
+		  </div>
+		  
           <a class="row button-garantir-vaga w-100 mx-auto" href="#garantir-vaga">
             <div class="mx-auto">
               QUERO GARANTIR MINHA VAGA
@@ -79,39 +87,39 @@
 
     <section id="garantir-vaga">
         <div class="container">
-            <div class="col-sm-12 col-12 col-md-12 col-lg-7">
-            <h3>
-                <p>Esta é uma oportunidade única para você adquirir bastante conhecimento sobre a magia do Povo Cigano. </p>
+            <div class="col-sm-12 col-12 col-md-12 col-lg-7 py-5">
+                <h3>
+                    <p>Esta é uma oportunidade única para você adquirir bastante conhecimento sobre a magia do Povo Cigano. </p>
 
-                <p style="font-weight: bold; font-size: 1.6rem">Você não vai perder né?</p>
+                    <p style="font-weight: bold; font-size: 1.6rem">Você não vai perder né?</p>
 
-                <p style="font-weight: bold; font-size: 1.6rem">Garanta já a sua vaga e marca esse compromisso imperdível em
-                sua agenda!</p>
-            </h3>
+                    <p style="font-weight: bold; font-size: 1.6rem">Garanta já a sua vaga e marca esse compromisso imperdível em
+                    sua agenda!</p>
+                </h3>
 
-            <h2>E mais...</h2>
-            <br>
+                <h2>E mais...</h2>
+                <br>
 
-            <h3>
-                <p>
-                Você ainda tem dúvida se vale ou não a pena virar tarólogo?
-                </p>
-                <p>
-                Ou não sabe se o Baralho Cigano é pra você, <span style="font-weight: bold">EU VOU TE AJUDAR!</span>
-                </p>
-                <p>
-                Preparei uma aula super especial esclarecendo todas as dúvidas a respeito desse assunto.
-                </p>
-                <p>
-                Não perca tempo! Se inscreva agora e receba o acesso para esta aula incrível e super exclusiva que preparei
-                com muito carinho para você!
-                </p>
+                <h3>
+                    <p>
+                    Você ainda tem dúvida se vale ou não a pena virar tarólogo?
+                    </p>
+                    <p>
+                    Ou não sabe se o Baralho Cigano é pra você, <span style="font-weight: bold">EU VOU TE AJUDAR!</span>
+                    </p>
+                    <p>
+                    Preparei uma aula super especial esclarecendo todas as dúvidas a respeito desse assunto.
+                    </p>
+                    <p>
+                    Não perca tempo! Se inscreva agora e receba o acesso para esta aula incrível e super exclusiva que preparei
+                    com muito carinho para você!
+                    </p>
 
-                <p>Estou te esperando!</p>
-            </h3>
+                    <p>Estou te esperando!</p>
+                </h3>
             </div>
 
-            <div class="col-lg-5 p-4">
+            <div class="col-lg-5 py-0">
                 <img src="img/10.png">
 
                 <div class="input-group mt-3">
@@ -123,7 +131,9 @@
                     aria-describedby="basic-addon1" data-rule="email">
                 </div>
 
-                <asp:Button ID="btnSalvar" class="button-garantir-vaga w-100 mx-auto text-center" runat="server" Text="INSCREVA-SE AQUI!" OnClick="Salvar"></asp:Button>
+                <asp:Button ID="btnSalvar" class="button-garantir-vaga w-100 mx-auto text-center" runat="server" Text="INSCREVA-SE NO WORKSHOP" OnClick="Salvar"></asp:Button>
+                <span class="text-center" style="color: #6d020a; font-size: 1.5rem; font-weight: 700">E ACESSE A AULA EXCLUSIVA!</span>
+                <br/>
                 <asp:Label ID="lbErro" CssClass="alert alert-info" runat="server" Text=""></asp:Label>
             </div>
             
@@ -140,7 +150,7 @@
             Oi, eu sou a Nani Matos, Massoterapeuta, Reikiana, Taróloga, Numeróloga e Espiritualista.
             Coaching de Desenvolvimento Pessoal, Espiritual e Autoconhecimento.
             </h3>
-            <h3>
+            <h3 >
             A minha história de conexão com o Baralho Cigano começou muito cedo, com cerca de 5 ou 6 anos de idade se
             iniciou a manifestação do dom de interpretação das cartas em minha vida.
             <br>
@@ -163,5 +173,23 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
     crossorigin="anonymous"></script>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '3833912530020905');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=3833912530020905&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
     
 </asp:Content>
