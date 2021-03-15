@@ -119,16 +119,18 @@
 
                     <p>Estou te esperando!</p>
                 </h3>
+
                 <div class="grupo-exclusivo-whats">
-                    <h3 class="grupo-exclusivo-text">Participe do grupo exclusivo do workshop! -> </h3>
-                    <a href="https://chat.whatsapp.com/HXZ9o7dA5H598RxunEDJ2n" class="whatsFixo ml-3" target="_blank">
+                    <h3 class="grupo-exclusivo-text">Participe do grupo exclusivo do workshop! </h3>
+                    <a href="https://chat.whatsapp.com/HXZ9o7dA5H598RxunEDJ2n" class="whatsFixo" target="_blank">
                         <i style="margin-top: 16px" class="fab fa-whatsapp"></i>
+                        Acessar grupo exclusivo
                     </a>
                 </div>
                 <a href="https://chat.whatsapp.com/HXZ9o7dA5H598RxunEDJ2n" class="whats" target="_blank"><i style="margin-top: 16px" class="fab fa-whatsapp"></i></a>
             </div>
 
-            <div class="col-lg-5 py-0">
+            <div class="col-lg-5 py-0 garantir-vaga-imagem">
                 <img src="img/10.png">
 
                 <div class="input-group mt-3">

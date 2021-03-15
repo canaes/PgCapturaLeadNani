@@ -7,6 +7,11 @@ html {
     scroll-behavior: smooth;
 }
 
+a:hover {
+    text-decoration: none;
+    color: #FFF;
+}
+
 
 .whats {
     position: fixed;
@@ -20,21 +25,6 @@ html {
     text-align: center;
     font-size: 30px;
     box-shadow: 1px 1px 2px #888;
-    z-index: 1000;
-}
-
-
-.whatsFixo {
-    position: absolute;
-    width: 60px;
-    height: 60px;
-    bottom: 40px;
-    right: 40px;
-    background-color: #25d366;
-    color: #fff;
-    border-radius: 50px;
-    text-align: center;
-    font-size: 30px;
     z-index: 1000;
 }
 
@@ -196,7 +186,9 @@ html {
         }
 
         #garantir-vaga img {
-            display: none;
+            height: auto;
+            width: 200px;
+            margin-top: -50px;
         }
 
         #garantir-vaga h4 {
@@ -204,13 +196,46 @@ html {
             color: #6d020a;
             font-size: 1.3rem;
             text-align: center;
+            margin-bottom: 20px;
         }
 
+    .garantir-vaga-imagem {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .fa-whatsapp {
+        margin-bottom: 14px;
+        margin-right: 10px;
+    }
+
+
+    .whatsFixo {
+        padding: 5px 20px;
+        background-color: #25d366;
+        color: #fff;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 1.4rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 
     .grupo-exclusivo-text {
         font-weight: 700;
         font-size: 1.5rem !important;
         color: #6d020a !important;
+        text-align: center;
+    }
+
+    .grupo-exclusivo-whats {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
 
     .button-garantir-vaga:hover {
@@ -385,10 +410,6 @@ html {
         border: 1px solid #ff7e00;
     }
 
-        #garantir-vaga img {
-            display: none;
-        }
-
         #garantir-vaga h3 {
             color: #fff;
             padding: 10px;
@@ -408,10 +429,50 @@ html {
             text-align: center;
         }
 
+
+    .garantir-vaga-imagem img {
+        height: auto;
+        width: 200px;
+        margin-top: -40px;
+    }
+
+    .garantir-vaga-imagem {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .whatsFixo {
+        padding: 10px 20px;
+        background-color: #25d366;
+        color: #fff;
+        border-radius: 5px;
+        font-size: 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .fa-whatsapp {
+        margin-right: 10px;
+        margin-bottom: 5px;
+        height: 30px;
+    }
+
+    .grupo-exclusivo-whats {
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
     .grupo-exclusivo-text {
         font-weight: 700;
         font-size: 1.5rem !important;
         color: #6d020a !important;
+        text-align: center;
     }
 
     .button-garantir-vaga:hover {
@@ -609,10 +670,49 @@ html {
         }
 
 
+    .garantir-vaga-imagem img {
+        height: auto;
+        width: 200px;
+        margin-top: -40px;
+    }
+
+    .garantir-vaga-imagem {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .whatsFixo {
+        padding: 4px 20px;
+        background-color: #25d366;
+        color: #fff;
+        border-radius: 5px;
+        font-size: 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 75%;
+    }
+
+    .fa-whatsapp {
+        margin-right: 15px;
+        margin-bottom: 5px;
+        height: 30px;
+    }
+
     .grupo-exclusivo-text {
         font-weight: 700;
         font-size: 1.5rem !important;
         color: #6d020a !important;
+    }
+
+    .grupo-exclusivo-whats {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
     }
 
     .button-garantir-vaga:hover {
@@ -827,10 +927,51 @@ html {
         }
 
 
+    .garantir-vaga-imagem img {
+        height: auto;
+        width: 200px;
+        margin-top: -40px;
+    }
+
+    .garantir-vaga-imagem {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .whatsFixo {
+        padding: 10px 0px;
+        background-color: #25d366;
+        color: #fff;
+        border-radius: 5px;
+        font-size: 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 75%;
+    }
+
+    .fa-whatsapp {
+        margin-right: 10px;
+        margin-bottom: 5px;
+        height: 30px;
+    }
+
     .grupo-exclusivo-text {
         font-weight: 700;
         font-size: 1.5rem !important;
         color: #6d020a !important;
+        text-align: center;
+    }
+
+    .grupo-exclusivo-whats {
+        margin: 25px 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
     }
 
     .button-garantir-vaga:hover {
@@ -1037,10 +1178,38 @@ html {
         }
 
 
+    .whatsFixo {
+        padding: 10px 0px;
+        background-color: #25d366;
+        color: #fff;
+        border-radius: 5px;
+        font-size: 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+    }
+
+    .fa-whatsapp {
+        margin-right: 10px;
+        margin-bottom: 5px;
+        height: 30px;
+    }
+
+    .grupo-exclusivo-whats {
+        margin: 25px 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
     .grupo-exclusivo-text {
+        margin-bottom: 25px;
         font-weight: 700;
         font-size: 1.5rem !important;
         color: #6d020a !important;
+        text-align: center;
     }
 
     .button-garantir-vaga:hover {
