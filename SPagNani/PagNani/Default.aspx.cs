@@ -45,7 +45,9 @@ namespace PagNani
                     "Olá, tudo bem?<br/>Gostaria de te dar os parabéns!<br/>"
                     + "<br/>A sua inscrição para participar do meu Workshop que <strong>vai acontecer nos dias 22, 23 e 24 de março</strong> foi concluída com sucesso!"
                     + "<br/>Marque na sua agenda, <strong>sempre às 20h30</strong>. Será transmitido pelo Instagram e Youtube."
-                    + "<br/><br/>Eu quero te apresentar aqui, um pouco do que você vai aprender nestes dias. Veja a programação!"
+                    + "<br/><br/>Participe do nosso <a href='https://youtu.be/YpaUQqxSVbM'>grupo no whatsapp</a> para acompanhar as novidades!!"
+
+                    + "<br/><br/>Eu quero te apresentar aqui, um pouco do que você vai aprender nestes dias. Veja a programação!"                    
 
                     + "<br/><br/><strong>Dia 22 de março</strong>"
                     + "<br/>Tema: Como adquirir e guardar o seu primeiro Baralho Cigano"

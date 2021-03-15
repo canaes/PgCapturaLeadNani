@@ -18,68 +18,6 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
 
-    <style>
-        .whats {
-            position: fixed;
-            width: 60px;
-            height: 60px;
-            bottom: 40px;
-            right: 40px;
-            background-color: #25d366;
-            color: #FFF;
-            border-radius: 50px;
-            text-align: center;
-            font-size: 30px;
-            box-shadow: 1px 1px 2px #888;
-            z-index: 1000;
-        }
-        .whatsFixo {
-            position: absolute;
-            width: 60px;
-            height: 60px;
-            bottom: 40px;
-            right: 40px;
-            background-color: #25d366;
-            color: #fff;
-            border-radius: 50px;
-            text-align: center;
-            font-size: 30px;
-            z-index: 1000;
-        }
-        .whatsInsc {
-            /*background-color: #25d366;*/
-            color: #fff;
-            border-radius: 50px;
-            text-align: center;
-            font-size: 30px;
-            z-index: 1000;
-        }
-        #inscr a:hover{
-            color: #25d366;
-            -webkit-transform: scale(1.3);
-            -ms-transform: scale(1.3);
-            transform: scale(1.3);
-        }
-        .fab.fa-instagram {
-          color: transparent;
-          background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
-          background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
-          background-clip: text;
-          -webkit-background-clip: text;
-        }
-        .youtube {
-            width: 60px;
-            height: 60px;
-            bottom: 40px;
-            right: 40px;            
-            color: #ff0000;
-            border-radius: 50px;
-            text-align: center;
-            z-index: 1000;
-            background-clip: text;
-            -webkit-background-clip: text;
-        }
-    </style>
 </head>
 <body>
     <form runat="server">
