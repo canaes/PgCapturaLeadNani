@@ -45,7 +45,7 @@ namespace PagNani
                     "Olá, tudo bem?<br/>Gostaria de te dar os parabéns!<br/>"
                     + "<br/>A sua inscrição para participar do meu Workshop que <strong>vai acontecer nos dias 22, 23 e 24 de março</strong> foi concluída com sucesso!"
                     + "<br/>Marque na sua agenda, <strong>sempre às 20h30</strong>. Será transmitido pelo Instagram e Youtube."
-                    + "<br/><br/>Participe do nosso <a href='https://youtu.be/YpaUQqxSVbM'>grupo no whatsapp</a> para acompanhar as novidades!!"
+                    + "<br/><br/>Participe do nosso <a href='https://chat.whatsapp.com/F5NYQ0nqhBc3vF6lp7RNu8'>grupo no whatsapp</a> para acompanhar as novidades!!"
 
                     + "<br/><br/>Eu quero te apresentar aqui, um pouco do que você vai aprender nestes dias. Veja a programação!"                    
 

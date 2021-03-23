@@ -9,7 +9,7 @@
                 <br/>Agora, entre no grupo para receber as informações:
             </h3>
             <div align="center" id="inscr">
-                <a href="https://chat.whatsapp.com/HXZ9o7dA5H598RxunEDJ2n" class="whatsInsc ml-3" target="_blank"> <i class="fab fa-whatsapp-square fa-3x"></i> </a>
+                <a href="https://chat.whatsapp.com/F5NYQ0nqhBc3vF6lp7RNu8" class="whatsInsc ml-3" target="_blank"> <i class="fab fa-whatsapp-square fa-3x"></i> </a>
             </div>
         </div>
     </section>
