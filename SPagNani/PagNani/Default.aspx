@@ -5,26 +5,26 @@
         <div class="container">
             <h2 class="text-center">Você também é apaixonada(o) pelo universo cigano e por toda essa energia mística?</h2>
 
-            <h3 class="text-center">Então, eu te convido a embarcar comigo numa super imersão de 3 dias com conteúdos que tenho
+            <h3 style="font-weight: bold; font-size: 1.4rem" class="text-center">Então, eu te convido a embarcar comigo numa super imersão de <strong style="font-weight: bold; font-size: 1.6rem">30 dias</strong> com conteúdos que tenho
             certeza que irão te ajudar bastante em sua jornada!
             <br />
                 <br />
                 Esse evento será diferente de todos os outros que já fiz!
             </h3>
 
-            <div class="video-conteudo mx-auto">
+           <%-- <div class="video-conteudo mx-auto">
                 <div class="video embed-responsive embed-responsive-16by9" style="overflow: hidden;">
                     <iframe width="1180" height="664" src="https://www.youtube.com/embed/CRaK-MyB7wc" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen=""></iframe>
                 </div>
-            </div>
+            </div> --%>
 
-            <a class="row button-garantir-vaga w-100 mx-auto" href="#garantir-vaga">
+            <%--<a class="row button-garantir-vaga w-100 mx-auto" href="#garantir-vaga">
                 <div class="mx-auto">
                     QUERO GARANTIR MINHA VAGA
                 </div>
-            </a>
+            </a>--%>
         </div>
     </section>
 
@@ -32,11 +32,11 @@
         <img src="img/19.png">
 
         <div class="container">
-            <h1>Veja um pouquinho do que te espera</h1>
+            <%--<h1>Veja um pouquinho do que te espera</h1>--%>
 
             <div class="temas-abordados flex-wrap">
 
-                <div class="tema-22 col-lg-5 col-12 col-sm-12 col-md-12 col-xl-5">
+               <%-- <div class="tema-22 col-lg-5 col-12 col-sm-12 col-md-12 col-xl-5">
                     <h3>Dia 22 de março às 20h30</h3>
                     <h3>Como adquirir e guardar o seu primeiro Baralho Cigano</h3>
                     <div class="tema-assuntos">
@@ -63,18 +63,22 @@
                             <h5>- Como consagrar o Baralho Cigano</h5>
                         </div>
                     </div>
-                </div>
+                </div>--%>
 
                 <div class="tema-24 col-lg-12 col-12 col-sm-12 col-md-12 col-xl-12">
-                    <h3>Dia 24 de março às 20h30</h3>
-                    <h3>Técnicas de leitura mais usadas</h3>
+                    <h3>
+                        A partir do dia 02 de Agosto 
+                    </h3>
+                    <h3>
+                        darei um mês de curso grátis de BARALHO CIGANO INICIANTE.
+
+                    </h3>
                     <div class="tema-assuntos">
-                        <h4>Assuntos abordados</h4>
+                        <h4>Serão aulas diárias totalmente GRÁTIS onde vou ensinar:</h4>
                         <div class="tema-topicos">
-                            <h5>- Quais os tipos de tiragem que você pode trabalhar</h5>
-                            <h5>- Por que cada tarólogo trabalha do seu jeito?</h5>
-                            <h5>- Como ouvir a sua intuição</h5>
-                            <h5>- Como encontrar o seu próprio método de trabalho</h5>
+                            <h5>➢  O significado das cartas;</h5>
+                            <h5>➢	Tiragens simples de leitura;</h5>
+                            <h5>➢	Como montar uma mesa de jogo.</h5>
                         </div>
                     </div>
                 </div>
@@ -89,21 +93,22 @@
         <div class="container">
             <div class="col-sm-12 col-12 col-md-12 col-lg-7 py-5">
                 <h3>
-                    <p>Esta é uma oportunidade única para você adquirir bastante conhecimento sobre a magia do Povo Cigano. </p>
+                    <p style="font-weight: bold; font-size: 1.6rem">Esta é uma oportunidade única para você adquirir bastante conhecimento sobre a magia do Povo Cigano. </p>
 
                     <p style="font-weight: bold; font-size: 1.6rem">Você não vai perder né?</p>
 
                     <p style="font-weight: bold; font-size: 1.6rem">
-                        Garanta já a sua vaga e marca esse compromisso imperdível em
-                    sua agenda!
+                        E para já antecipar seus estudos, assim que se inscrever, você receberá por email gratuitamente um ebook que escrevi sobre "Os Costumes e Curiosidades dos Povos Ciganos."
                     </p>
                 </h3>
 
-                <h2>E mais...</h2>
+                <h3 style="font-weight: bold; font-size: 1.6rem">
+                    Ah, e para participar, é fundamental que entre no grupo de Whatsapp, ok? Será através do grupo que enviarei informações importantes sobre o curso. 
+                </h3>
                 
 
-                <h3>
-                    <p>
+                <h3 style="font-weight: bold; font-size: 1.6rem">
+                   <%-- <p>
                         Você ainda tem dúvida se vale ou não a pena virar tarólogo?
                     </p>
                     <p>
@@ -117,11 +122,12 @@
                     com muito carinho para você!
                     </p>
 
-                    <p>Estou te esperando!</p>
+                    <p>Estou te esperando!</p>--%>
+                    Garanta já a sua vaga! Nossa imersão será inesquecível!
                 </h3>
 
                 <div class="grupo-exclusivo-whats">
-                    <h3 class="grupo-exclusivo-text">Participe do grupo exclusivo do workshop! </h3>
+                    <h3 class="grupo-exclusivo-text">Participe do grupo exclusivo no whatsapp! </h3>
                     <a href="https://chat.whatsapp.com/F5NYQ0nqhBc3vF6lp7RNu8" class="whatsFixo" target="_blank">
                         <i style="margin-top: 16px" class="fab fa-whatsapp"></i>
                         Acessar grupo exclusivo
@@ -142,8 +148,8 @@
                         aria-describedby="basic-addon1" data-rule="email">
                 </div>
 
-                <asp:Button ID="btnSalvar" class="button-garantir-vaga w-100 mx-auto text-center" Text="QUERO ME INSCREVER NO WORKSHOP" runat="server" OnClick="Salvar"></asp:Button>
-                <h4>E ACESSE A AULA EXCLUSIVA!</h4>
+                <asp:Button ID="btnSalvar" class="button-garantir-vaga w-100 mx-auto text-center" Text="QUERO ME INSCREVER NA MARATONA" runat="server" OnClick="Salvar"></asp:Button>
+                
                 <br />
                 <asp:Label ID="lbErro" CssClass="alert alert-info" runat="server" Text=""></asp:Label>
             </div>

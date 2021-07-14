@@ -252,7 +252,7 @@ a:hover {
         border-radius: 5px;
         word-wrap: break-word;
         color: #FFF;
-        font-size: 15px;
+        font-size: 12px;
         line-height: 1.2;
         font-weight: bold;
         text-decoration: none;
@@ -1224,6 +1224,7 @@ a:hover {
         border-radius: 5px;
         border-color: transparent;
         color: #FFF;
+        word-break:break-word;
         font-size: 21px;
         line-height: 1.4;
         font-weight: bold;
