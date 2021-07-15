@@ -187,6 +187,9 @@
     <Content Include="img\7.png" />
     <Content Include="img\8.png" />
     <Content Include="img\9.png" />
+    <Content Include="img\bcChamando.mp4" />
+    <Content Include="img\nvft1.jpeg" />
+    <Content Include="img\nvft2.jpeg" />
     <Content Include="img\perfil.png" />
     <Content Include="InscricaoConfirmada.aspx" />
     <Content Include="Scripts\bootstrap.js" />

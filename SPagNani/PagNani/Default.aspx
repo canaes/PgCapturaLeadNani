@@ -1,6 +1,33 @@
 ﻿<%@ Page Title="Magia das Cartas - Baralho Cigano do Zero ao Avançado" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="PagNani._Default" %>
 
+
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+
+    <style>
+        video {
+            max-width: 100%;
+            height: auto;
+        }
+
+        #tema .imgTema24 img {
+            display: block;
+            margin: auto;
+            max-width: 500px;
+            width: 100%;
+        }
+        .tema-topicos {
+            display:block;
+            margin: auto;
+            width: 600px;
+            margin-top: 20px;
+        }
+        #garantir-vaga .imgVaga img {
+            margin: 50px 0 30px;
+            width: 100%;
+        }
+    </style>
+
+
     <section id="energia-mistica">
         <div class="container">
             <h2 class="text-center">Você também é apaixonada(o) pelo universo cigano e por toda essa energia mística?</h2>
@@ -12,13 +39,16 @@
                 Esse evento será diferente de todos os outros que já fiz!
             </h3>
 
-           <%-- <div class="video-conteudo mx-auto">
-                <div class="video embed-responsive embed-responsive-16by9" style="overflow: hidden;">
+            <div class="video-conteudo mx-auto text-center">
+                <%-- <div class="video embed-responsive embed-responsive-16by9" style="overflow: hidden;">
                     <iframe width="1180" height="664" src="https://www.youtube.com/embed/CRaK-MyB7wc" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen=""></iframe>
-                </div>
-            </div> --%>
+                </div>--%>
+                <video width="980" controls>
+                    <source src="img/bcChamando.mp4" type="video/mp4" />
+                </video>
+            </div>
 
             <%--<a class="row button-garantir-vaga w-100 mx-auto" href="#garantir-vaga">
                 <div class="mx-auto">
@@ -36,7 +66,7 @@
 
             <div class="temas-abordados flex-wrap">
 
-               <%-- <div class="tema-22 col-lg-5 col-12 col-sm-12 col-md-12 col-xl-5">
+                <%-- <div class="tema-22 col-lg-5 col-12 col-sm-12 col-md-12 col-xl-5">
                     <h3>Dia 22 de março às 20h30</h3>
                     <h3>Como adquirir e guardar o seu primeiro Baralho Cigano</h3>
                     <div class="tema-assuntos">
@@ -67,14 +97,15 @@
 
                 <div class="tema-24 col-lg-12 col-12 col-sm-12 col-md-12 col-xl-12">
                     <h3>
-                        A partir do dia 02 de Agosto 
+                        <span class="d-block">A partir do dia 02 de Agosto</span>
+                        <span class="d-block">darei um mês de curso grátis de </span>
+                        <span class="d-block">BARALHO CIGANO INICIANTE.</span> 
                     </h3>
-                    <h3>
-                        darei um mês de curso grátis de BARALHO CIGANO INICIANTE.
-
-                    </h3>
+                    <div class="imgTema24">
+                        <img src="img/nvft2.jpeg">
+                    </div>
                     <div class="tema-assuntos">
-                        <h4>Serão aulas diárias totalmente GRÁTIS onde vou ensinar:</h4>
+                        <h4 class="text-center">Serão aulas diárias totalmente GRÁTIS onde vou ensinar:</h4>
                         <div class="tema-topicos">
                             <h5>➢  O significado das cartas;</h5>
                             <h5>➢	Tiragens simples de leitura;</h5>
@@ -93,22 +124,21 @@
         <div class="container">
             <div class="col-sm-12 col-12 col-md-12 col-lg-7 py-5">
                 <h3>
-                    <p style="font-weight: bold; font-size: 1.6rem">Esta é uma oportunidade única para você adquirir bastante conhecimento sobre a magia do Povo Cigano. </p>
+                    <p style="font-weight: bold; font-size: 1.4rem">Esta é uma oportunidade única para você adquirir bastante conhecimento sobre a magia do Povo Cigano. </p>
 
-                    <p style="font-weight: bold; font-size: 1.6rem">Você não vai perder né?</p>
+                    <p style="font-weight: bold; font-size: 1.4rem">Você não vai perder né?</p>
 
-                    <p style="font-weight: bold; font-size: 1.6rem">
+                    <p style="font-weight: bold; font-size: 1.4rem">
                         E para já antecipar seus estudos, assim que se inscrever, você receberá por email gratuitamente um ebook que escrevi sobre "Os Costumes e Curiosidades dos Povos Ciganos."
                     </p>
                 </h3>
 
-                <h3 style="font-weight: bold; font-size: 1.6rem">
-                    Ah, e para participar, é fundamental que entre no grupo de Whatsapp, ok? Será através do grupo que enviarei informações importantes sobre o curso. 
-                </h3>
-                
-
-                <h3 style="font-weight: bold; font-size: 1.6rem">
-                   <%-- <p>
+                <h3 style="font-weight: bold; font-size: 1.4rem">Ah, e para participar, é fundamental que entre no grupo de Whatsapp, ok? Será através do grupo que enviarei informações importantes sobre o curso. 
+                </h3>                                      
+                                                           
+                                                           
+                <h3 style="font-weight: bold; font-size: 1.4rem">
+                    <%-- <p>
                         Você ainda tem dúvida se vale ou não a pena virar tarólogo?
                     </p>
                     <p>
@@ -125,6 +155,14 @@
                     <p>Estou te esperando!</p>--%>
                     Garanta já a sua vaga! Nossa imersão será inesquecível!
                 </h3>
+
+                <h3 style="font-weight: bold; font-size: 1.6rem; line-height: 45px">
+                    E lembrando que ao final do curso você ganhará um <span style="background: #6d020a; padding:5px; border-radius:5px;">CERTIFICADO!!</span>
+                </h3>
+
+                <div class="imgVaga">
+                        <img src="img/nvft1.jpeg">
+                    </div>
 
                 <div class="grupo-exclusivo-whats">
                     <h3 class="grupo-exclusivo-text">Participe do grupo exclusivo no whatsapp! </h3>
@@ -149,7 +187,7 @@
                 </div>
 
                 <asp:Button ID="btnSalvar" class="button-garantir-vaga w-100 mx-auto text-center" Text="QUERO ME INSCREVER NA MARATONA" runat="server" OnClick="Salvar"></asp:Button>
-                
+
                 <br />
                 <asp:Label ID="lbErro" CssClass="alert alert-info" runat="server" Text=""></asp:Label>
             </div>
