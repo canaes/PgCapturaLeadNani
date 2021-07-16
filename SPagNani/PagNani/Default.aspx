@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Magia das Cartas - Baralho Cigano do Zero ao Avançado" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="PagNani._Default" %>
+﻿<%@ Page Title="Maratona Grátis | Nani Mattos" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="PagNani._Default" %>
 
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">

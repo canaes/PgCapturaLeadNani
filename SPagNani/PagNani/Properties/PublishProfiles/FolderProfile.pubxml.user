@@ -5,8 +5,12 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\Major\Documents\GitHub\PgCapturaLeadNani\SPagNani\PagNani\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2021-07-16T14:50:55.5425292Z;True|2021-07-16T11:49:12.3286281-03:00;True|2021-07-16T11:35:28.1885733-03:00;</History>
   </PropertyGroup>
   <ItemGroup>
+    <File Include="Arquivos/Costumes_e_curiosidade_dos_povos_ciganos.pdf">
+      <publishTime>07/16/2021 11:37:31</publishTime>
+    </File>
     <File Include="bin/Antlr3.Runtime.dll">
       <publishTime>09/10/2013 15:29:20</publishTime>
     </File>
@@ -62,10 +66,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>04/22/2019 01:06:16</publishTime>
     </File>
     <File Include="bin/PagNani.dll">
-      <publishTime>03/18/2021 12:19:13</publishTime>
+      <publishTime>07/16/2021 11:50:53</publishTime>
     </File>
     <File Include="bin/PagNani.pdb">
-      <publishTime>03/18/2021 12:19:13</publishTime>
+      <publishTime>07/16/2021 11:50:53</publishTime>
     </File>
     <File Include="bin/pt-br/Microsoft.AspNet.FriendlyUrls.resources.dll">
       <publishTime>07/30/2013 17:01:52</publishTime>
@@ -224,13 +228,13 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/08/2018 12:18:16</publishTime>
     </File>
     <File Include="bin/SPagNani.DAL.dll">
-      <publishTime>03/11/2021 14:38:41</publishTime>
+      <publishTime>07/16/2021 11:33:10</publishTime>
     </File>
     <File Include="bin/SPagNani.DAL.dll.config">
       <publishTime>03/11/2021 14:07:39</publishTime>
     </File>
     <File Include="bin/SPagNani.DAL.pdb">
-      <publishTime>03/11/2021 14:38:41</publishTime>
+      <publishTime>07/16/2021 11:33:10</publishTime>
     </File>
     <File Include="bin/System.Buffers.dll">
       <publishTime>02/19/2020 10:05:18</publishTime>
@@ -284,10 +288,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/11/2021 11:52:08</publishTime>
     </File>
     <File Include="Content/styles.css">
-      <publishTime>03/15/2021 19:47:07</publishTime>
+      <publishTime>07/16/2021 11:33:16</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>03/18/2021 12:18:31</publishTime>
+      <publishTime>07/16/2021 11:36:56</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>03/12/2021 10:39:59</publishTime>
@@ -369,6 +373,15 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     </File>
     <File Include="img/9.png">
       <publishTime>03/09/2021 16:03:52</publishTime>
+    </File>
+    <File Include="img/bcChamando.mp4">
+      <publishTime>07/16/2021 11:33:16</publishTime>
+    </File>
+    <File Include="img/nvft1.jpeg">
+      <publishTime>07/16/2021 11:33:16</publishTime>
+    </File>
+    <File Include="img/nvft2.jpeg">
+      <publishTime>07/16/2021 11:33:16</publishTime>
     </File>
     <File Include="img/perfil.png">
       <publishTime>03/09/2021 12:51:13</publishTime>
@@ -467,7 +480,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/11/2021 11:52:10</publishTime>
     </File>
     <File Include="Site.Master">
-      <publishTime>03/17/2021 19:42:42</publishTime>
+      <publishTime>03/18/2021 12:32:46</publishTime>
     </File>
     <File Include="ViewSwitcher.ascx">
       <publishTime>03/11/2021 11:52:11</publishTime>

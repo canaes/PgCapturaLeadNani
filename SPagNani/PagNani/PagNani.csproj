@@ -166,6 +166,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Arquivos\Costumes_e_curiosidade_dos_povos_ciganos.pdf" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="img\1.png" />
     <Content Include="img\10.png" />
