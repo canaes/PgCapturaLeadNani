@@ -5,7 +5,7 @@
             <h1>Sua inscrição foi confirmada! </h1>
 
             <h3 class="text-center">
-                Confira no seu email o acesso à aula exclusiva!
+                Confira no seu email a inscrição e faça o download do ebook grátis!
                 <br/>Agora, entre no grupo para receber as informações:
             </h3>
             <div align="center" id="inscr">
