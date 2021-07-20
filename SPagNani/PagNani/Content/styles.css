@@ -67,7 +67,6 @@ a:hover {
 
 
 @media (max-width: 575.98px) {
-
     /* energia-mistica */
 
     #energia-mistica {
@@ -261,6 +260,13 @@ a:hover {
         margin: 20px;
     }
 
+    /*Button Whatsapp*/
+/*
+    .whats {
+        bottom: 40px;
+        right: 40px;      
+    }
+*/
     /* perfil */
 
     #perfil {

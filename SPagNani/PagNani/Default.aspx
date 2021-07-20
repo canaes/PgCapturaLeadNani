@@ -18,7 +18,7 @@
         .tema-topicos {
             display:block;
             margin: auto;
-            width: 600px;
+            max-width: 600px;
             margin-top: 20px;
         }
         #garantir-vaga .imgVaga img {
@@ -50,11 +50,11 @@
                 </video>
             </div>
 
-            <%--<a class="row button-garantir-vaga w-100 mx-auto" href="#garantir-vaga">
+            <a class="row button-garantir-vaga w-100 mx-auto" href="#form">
                 <div class="mx-auto">
                     QUERO GARANTIR MINHA VAGA
                 </div>
-            </a>--%>
+            </a>
         </div>
     </section>
 
@@ -174,7 +174,7 @@
                 <a href="https://chat.whatsapp.com/F5NYQ0nqhBc3vF6lp7RNu8" class="whats" target="_blank"><i style="margin-top: 16px; margin-right: 4px" class="fab fa-whatsapp"></i></a>
             </div>
 
-            <div class="col-lg-5 py-0 garantir-vaga-imagem">
+            <div id="form" class="col-lg-5 py-0 garantir-vaga-imagem">
                 <img src="img/10.png">
 
                 <div class="input-group mt-3">
@@ -231,25 +231,21 @@
         crossorigin="anonymous"></script>
 
     <!-- Facebook Pixel Code -->
-    <script>
-        !function (f, b, e, v, n, t, s) {
-            if (f.fbq) return; n = f.fbq = function () {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
-            n.queue = []; t = b.createElement(e); t.async = !0;
-            t.src = v; s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '3833912530020905');
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" style="display: none"
-            src="https://www.facebook.com/tr?id=3833912530020905&ev=PageView&noscript=1" />
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1959675567517680');
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=1959675567517680&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- End Facebook Pixel Code -->
 
 </asp:Content>
