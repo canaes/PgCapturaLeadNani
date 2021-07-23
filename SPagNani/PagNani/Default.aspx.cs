@@ -48,7 +48,7 @@ namespace PagNani
                     + "<br/>Ao final do curso você será capaz de fazer suas primeiras leituras. Você vai se apaixonar!"
 
                     + "<br/><br/>Não se esqueça de entrar no grupo de whatsapp! É super importante para que você não perca as orientações sobre o curso, ok?"
-                    + "<br/><br/>Clique aqui e entre agora no grupo: <a href='https://chat.whatsapp.com/F5NYQ0nqhBc3vF6lp7RNu8' target='_blank'>Link do Grupo</a>"
+                    + "<br/><br/>Clique aqui e entre agora no grupo: <a href='https://chat.whatsapp.com/ENtKxxVLlRaB4gNUjm1YCd' target='_blank'>Link do Grupo</a>"
 
                     + "<br/><br/>E como prometido, estou disponibilizando para você o <a href='https://maratonagratis.nanimattos.trixxfs.com/Arquivos/Costumes_e_curiosidade_dos_povos_ciganos.pdf' target='_blank'>download</a> de um livro que escrevi com muito carinho sobre <strong>Os Costumes e Curiosidades do Povo Cigano</strong>"
                     + "<br/><br/>Esta é uma oportunidade incrível para você adquirir bastante conhecimento a respeito da magia do Povo Cigano."

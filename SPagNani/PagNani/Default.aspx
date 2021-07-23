@@ -166,12 +166,12 @@
 
                 <div class="grupo-exclusivo-whats">
                     <h3 class="grupo-exclusivo-text">Participe do grupo exclusivo no whatsapp! </h3>
-                    <a href="https://chat.whatsapp.com/F5NYQ0nqhBc3vF6lp7RNu8" class="whatsFixo" target="_blank">
+                    <a href="https://chat.whatsapp.com/ENtKxxVLlRaB4gNUjm1YCd" class="whatsFixo" target="_blank">
                         <i style="margin-top: 16px" class="fab fa-whatsapp"></i>
                         Acessar grupo exclusivo
                     </a>
                 </div>
-                <a href="https://chat.whatsapp.com/F5NYQ0nqhBc3vF6lp7RNu8" class="whats" target="_blank"><i style="margin-top: 16px; margin-right: 4px" class="fab fa-whatsapp"></i></a>
+                <a href="https://chat.whatsapp.com/ENtKxxVLlRaB4gNUjm1YCd" class="whats" target="_blank"><i style="margin-top: 16px; margin-right: 4px" class="fab fa-whatsapp"></i></a>
             </div>
 
             <div id="form" class="col-lg-5 py-0 garantir-vaga-imagem">

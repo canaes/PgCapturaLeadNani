@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\Major\Documents\GitHub\PgCapturaLeadNani\SPagNani\PagNani\bin\app.publish\</_PublishTargetUrl>
-    <History>True|2021-07-16T14:50:55.5425292Z;True|2021-07-16T11:49:12.3286281-03:00;True|2021-07-16T11:35:28.1885733-03:00;</History>
+    <History>True|2021-07-23T12:48:13.2643472Z;True|2021-07-20T17:08:12.8554520-03:00;True|2021-07-16T11:50:55.5425292-03:00;True|2021-07-16T11:49:12.3286281-03:00;True|2021-07-16T11:35:28.1885733-03:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Arquivos/Costumes_e_curiosidade_dos_povos_ciganos.pdf">
@@ -66,10 +66,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>04/22/2019 01:06:16</publishTime>
     </File>
     <File Include="bin/PagNani.dll">
-      <publishTime>07/16/2021 11:50:53</publishTime>
+      <publishTime>07/23/2021 09:48:11</publishTime>
     </File>
     <File Include="bin/PagNani.pdb">
-      <publishTime>07/16/2021 11:50:53</publishTime>
+      <publishTime>07/23/2021 09:48:11</publishTime>
     </File>
     <File Include="bin/pt-br/Microsoft.AspNet.FriendlyUrls.resources.dll">
       <publishTime>07/30/2013 17:01:52</publishTime>
@@ -288,10 +288,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/11/2021 11:52:08</publishTime>
     </File>
     <File Include="Content/styles.css">
-      <publishTime>07/16/2021 11:33:16</publishTime>
+      <publishTime>07/20/2021 17:06:16</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>07/16/2021 11:36:56</publishTime>
+      <publishTime>07/23/2021 09:46:26</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>03/12/2021 10:39:59</publishTime>
@@ -387,7 +387,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/09/2021 12:51:13</publishTime>
     </File>
     <File Include="InscricaoConfirmada.aspx">
-      <publishTime>03/18/2021 12:18:49</publishTime>
+      <publishTime>07/23/2021 09:47:33</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>03/11/2021 11:52:08</publishTime>
@@ -480,13 +480,13 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/11/2021 11:52:10</publishTime>
     </File>
     <File Include="Site.Master">
-      <publishTime>03/18/2021 12:32:46</publishTime>
+      <publishTime>07/20/2021 17:06:17</publishTime>
     </File>
     <File Include="ViewSwitcher.ascx">
       <publishTime>03/11/2021 11:52:11</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/12/2021 10:57:23</publishTime>
+      <publishTime>07/20/2021 17:08:11</publishTime>
     </File>
   </ItemGroup>
 </Project>
